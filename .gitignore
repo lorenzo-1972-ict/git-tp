@@ -1,0 +1,5 @@
+# file to manage rules to ignore temp files
+
+__pycache__/
+
+*.venv
